@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iReviewer</string>
+
+    <string name="start_activity">Start an Activity</string>
+    <string name="open_browser">Open Web Browser</string>
+    <string name="activity_onCreate">Activity.onCreate()</string>
+    <string name="activity_onStart">Activity.onStart()</string>
+    <string name="activity_onRestart">Activity.onRestart()</string>
+    <string name="activity_onResume">Activity.onResume()</string>
+    <string name="activity_onPause">Activity.onPause()</string>
+    <string name="activity_onStop">Activity.onStop()</string>
+    <string name="activity_onDestroy">Activity.onDestroy()</string>
+</resources>
