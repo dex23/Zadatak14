@@ -18,7 +18,8 @@
         android:layout_height="wrap_content"
         android:text="camera"
         android:id="@+id/start_camera"
-        android:onClick="btnOpenCameraClicked"/>
+        android:onClick="btnOpenCameraClicked"
+        android:drawableLeft="@drawable/ic_camera"/>
 
 
 </LinearLayout>

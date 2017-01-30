@@ -9,7 +9,8 @@
         android:layout_height="wrap_content"
         android:text="start second activity"
         android:id="@+id/start_activity"
-        android:onClick="btnStartActivityClicked"/>
+        android:onClick="btnStartActivityClicked" />
+
 
     <!-- Declares a button that opens a browser -->
     <Button
