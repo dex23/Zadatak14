@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">iReviewer</string>
 
-    <string name="start_activity">Start an Activity</string>
-    <string name="open_browser">Open Web Browser</string>
-    <string name="activity_onCreate">Activity.onCreate()</string>
-    <string name="activity_onStart">Activity.onStart()</string>
-    <string name="activity_onRestart">Activity.onRestart()</string>
-    <string name="activity_onResume">Activity.onResume()</string>
-    <string name="activity_onPause">Activity.onPause()</string>
-    <string name="activity_onStop">Activity.onStop()</string>
-    <string name="activity_onDestroy">Activity.onDestroy()</string>
+    <string name="start_activity">Покреће активити</string>
+    <string name="open_browser">Отвара веб страницу</string>
+    <string name="activity_onCreate">Активити.онЦреате()</string>
+    <string name="activity_onStart">Активити.онСтарт()</string>
+    <string name="activity_onRestart">Активити.онРестарт()</string>
+    <string name="activity_onResume">Активити.онРесуме()</string>
+    <string name="activity_onPause">Активити.онПаусе()</string>
+    <string name="activity_onStop">Активити.онСтоп()</string>
+    <string name="activity_onDestroy">Актибити.онДестрој()</string>
 </resources>
