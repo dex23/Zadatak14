@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">iReviewer</string>
 
-    <string name="start_activity">Покреће активити</string>
+    <string name="start_an_activity">Покрени Други Активити</string>
+    <string name="camera">Покрени Камеру</string>
     <string name="open_browser">Отвара веб страницу</string>
     <string name="activity_onCreate">Активити.онЦреате()</string>
     <string name="activity_onStart">Активити.онСтарт()</string>

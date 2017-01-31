@@ -6,17 +6,11 @@
     android:layout_height="match_parent"
     android:weightSum="1">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="start third activity"
-        android:id="@+id/start_activity"
-        android:onClick="btnStartActivityClicked"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="camera"
+        android:text="@string/camera"
         android:id="@+id/start_camera"
         android:onClick="btnOpenCameraClicked"
         android:drawableLeft="@drawable/ic_camera"/>

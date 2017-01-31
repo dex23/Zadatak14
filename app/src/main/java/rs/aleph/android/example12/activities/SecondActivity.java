@@ -84,10 +84,6 @@ public class SecondActivity extends Activity {
         toast.show();
     }
 
-    public void btnStartActivityClicked(View view) {
-        Intent intent = new Intent(SecondActivity.this, ThirdActivity.class);
-        startActivity(intent);
-    }
 
     public void btnOpenCameraClicked(View view) {
         Intent cameraIntent = new Intent("android.media.action.IMAGE_CAPTURE");
